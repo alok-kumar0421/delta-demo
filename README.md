@@ -1,3 +1,0 @@
-#delta-demo
-delta demo
-
